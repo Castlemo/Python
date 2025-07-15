@@ -8,3 +8,7 @@ def say_goodbye(to):
 if __name__ == "__main__":
     say_hello("파이썬")
     say_goodbye("나도코딩")
+
+else:
+    say_hello("파이썬")
+    say_goodbye("나도코딩")
